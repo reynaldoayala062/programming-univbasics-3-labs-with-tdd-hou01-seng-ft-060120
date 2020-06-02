@@ -1,4 +1,4 @@
 # Add your variables here
 
 first_number = 10 
-secound_number = 0 
+secound_number = -10
